@@ -1,0 +1,97 @@
+how would you describe your political beliefs on a scale from 1 to 7 where 1 is most liberal and 7 is most conservative?,what news sources do you typically read from?,Headline,Reliability Rating,Headline Category,Headline Category Numerical,Posterior Mean,Log Posterior Odds,Predicted Rating
+3,Associated Press,Local Election Systems Across America Are Weak and Vulnerable,5,conservative,1,3.350648922129345,-0.2691068780083599,3.386989529022863
+2,"New York Times, Washington Post, Associated Press",Local Election Systems Across America Are Weak and Vulnerable,4,conservative,1,2.910030796304443,0.25832503373803584,2.916608500301497
+1,"New York Times, None of the above",Local Election Systems Across America Are Weak and Vulnerable,6,conservative,1,2.4769797624285093,-1.4832584894052725,2.4462274715801318
+2,"New York Times, Reuters",Local Election Systems Across America Are Weak and Vulnerable,2,conservative,1,2.910030796304443,-0.7426011036244916,2.916608500301497
+1,"New York Times, Washington Post",Local Election Systems Across America Are Weak and Vulnerable,2,conservative,1,2.4769797624285093,-0.9142656052371535,2.4462274715801318
+2,"New York Times, Associated Press, Reuters",Local Election Systems Across America Are Weak and Vulnerable,3,conservative,1,2.910030796304443,0.7137801558191595,2.916608500301497
+3,"New York Times, Washington Post",Local Election Systems Across America Are Weak and Vulnerable,2,conservative,1,3.350648922129345,-0.580913386697547,3.386989529022863
+2,"New York Times, Reuters",Local Election Systems Across America Are Weak and Vulnerable,2,conservative,1,2.910030796304443,-0.7426011036244916,2.916608500301497
+2,"New York Times, Reuters",Local Election Systems Across America Are Weak and Vulnerable,4,conservative,1,2.910030796304443,0.25832503373803584,2.916608500301497
+2,"New York Times, Daily Wire",Local Election Systems Across America Are Weak and Vulnerable,3,conservative,1,2.910030796304443,0.7137801558191595,2.916608500301497
+2,None of the above,Local Election Systems Across America Are Weak and Vulnerable,5,conservative,1,2.910030796304443,-0.13114302699105493,2.916608500301497
+2,None of the above,Local Election Systems Across America Are Weak and Vulnerable,3,conservative,1,2.910030796304443,0.7137801558191595,2.916608500301497
+4,None of the above,Local Election Systems Across America Are Weak and Vulnerable,4,conservative,1,3.798834139903212,0.17218825898054202,3.8573705577442285
+2,"New York Times, Washington Post, Associated Press, Reuters",Local Election Systems Across America Are Weak and Vulnerable,3,conservative,1,2.910030796304443,0.7137801558191595,2.916608500301497
+4,None of the above,Local Election Systems Across America Are Weak and Vulnerable,5,conservative,1,3.798834139903212,-0.4170475137113819,3.8573705577442285
+5,New York Times,Local Election Systems Across America Are Weak and Vulnerable,2,conservative,1,4.5098218213814345,-0.28746830690080527,4.3277515864655935
+3,Associated Press,The New Attack on Hispanic Voting Rights,4,liberal,-1,3.558985921689397,0.31083737319692034,3.6072634056034656
+2,"New York Times, Washington Post, Associated Press",The New Attack on Hispanic Voting Rights,2,liberal,-1,3.1373075230972285,-1.7019506971204268,3.1368823768820997
+1,"New York Times, None of the above",The New Attack on Hispanic Voting Rights,6,liberal,-1,2.723196216454026,-0.4925500108919152,2.6665013481607343
+2,"New York Times, Reuters",The New Attack on Hispanic Voting Rights,6,liberal,-1,3.1373075230972285,-0.6704790052142137,3.1368823768820997
+1,"New York Times, Washington Post",The New Attack on Hispanic Voting Rights,2,liberal,-1,2.723196216454026,-1.9235571267237979,2.6665013481607343
+2,"New York Times, Associated Press, Reuters",The New Attack on Hispanic Voting Rights,6,liberal,-1,3.1373075230972285,-0.6704790052142137,3.1368823768820997
+3,"New York Times, Washington Post",The New Attack on Hispanic Voting Rights,4,liberal,-1,3.558985921689397,0.31083737319692034,3.6072634056034656
+2,"New York Times, Reuters",The New Attack on Hispanic Voting Rights,5,liberal,-1,3.1373075230972285,0.40950737951301003,3.1368823768820997
+2,"New York Times, Reuters",The New Attack on Hispanic Voting Rights,4,liberal,-1,3.1373075230972285,0.29897544024210065,3.1368823768820997
+2,"New York Times, Daily Wire",The New Attack on Hispanic Voting Rights,5,liberal,-1,3.1373075230972285,0.40950737951301003,3.1368823768820997
+2,None of the above,The New Attack on Hispanic Voting Rights,6,liberal,-1,3.1373075230972285,-0.6704790052142137,3.1368823768820997
+2,None of the above,The New Attack on Hispanic Voting Rights,4,liberal,-1,3.1373075230972285,0.29897544024210065,3.1368823768820997
+4,None of the above,The New Attack on Hispanic Voting Rights,4,liberal,-1,3.9882314122305327,0.3127225214660238,4.0776444343248315
+2,"New York Times, Washington Post, Associated Press, Reuters",The New Attack on Hispanic Voting Rights,6,liberal,-1,3.1373075230972285,-0.6704790052142137,3.1368823768820997
+4,None of the above,The New Attack on Hispanic Voting Rights,5,liberal,-1,3.9882314122305327,0.22348674877409988,4.0776444343248315
+5,New York Times,The New Attack on Hispanic Voting Rights,4,liberal,-1,4.718158820941487,0.30463088504941094,4.548025463046196
+3,Associated Press,The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,3,neutral,0,3.4548174219093712,0.6021301840120743,3.4971264673131643
+2,"New York Times, Washington Post, Associated Press",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,5,neutral,0,3.0236691597008356,0.17043217626097742,3.0267454385917985
+1,"New York Times, None of the above",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,5,neutral,0,2.600087989441267,0.273448278597213,2.556364409870433
+2,"New York Times, Reuters",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,2,neutral,0,3.0236691597008356,-1.1910259003724595,3.0267454385917985
+1,"New York Times, Washington Post",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,5,neutral,0,2.600087989441267,0.273448278597213,2.556364409870433
+2,"New York Times, Associated Press, Reuters",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,6,neutral,0,3.0236691597008356,-1.1595542084662462,3.0267454385917985
+3,"New York Times, Washington Post",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,4,neutral,0,3.4548174219093712,0.2967912059495339,3.4971264673131643
+2,"New York Times, Reuters",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,4,neutral,0,3.0236691597008356,0.30990023699006813,3.0267454385917985
+2,"New York Times, Reuters",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,4,neutral,0,3.0236691597008356,0.30990023699006813,3.0267454385917985
+2,"New York Times, Daily Wire",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,4,neutral,0,3.0236691597008356,0.30990023699006813,3.0267454385917985
+2,None of the above,The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,6,neutral,0,3.0236691597008356,-1.1595542084662462,3.0267454385917985
+2,None of the above,The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,5,neutral,0,3.0236691597008356,0.17043217626097742,3.0267454385917985
+4,None of the above,The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,4,neutral,0,3.893532776066872,0.27370539022328305,3.96750749603453
+2,"New York Times, Washington Post, Associated Press, Reuters",The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,4,neutral,0,3.0236691597008356,0.30990023699006813,3.0267454385917985
+4,None of the above,The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,5,neutral,0,3.893532776066872,-0.06553038246864121,3.96750749603453
+5,New York Times,The Republican leading the probe of Hunter Biden has his own shell company and complicated friends,5,neutral,0,4.613990321161461,-0.1984768388620253,4.437888524755895
+3,Associated Press,"New critical race theory laws have teachers scared, confused and self-censoring",3,liberal,-1,3.558985921689397,0.36617635125946096,3.6072634056034656
+2,"New York Times, Washington Post, Associated Press","New critical race theory laws have teachers scared, confused and self-censoring",6,liberal,-1,3.1373075230972285,-0.6704790052142137,3.1368823768820997
+1,"New York Times, None of the above","New critical race theory laws have teachers scared, confused and self-censoring",6,liberal,-1,2.723196216454026,-0.4925500108919152,2.6665013481607343
+2,"New York Times, Reuters","New critical race theory laws have teachers scared, confused and self-censoring",1,liberal,-1,3.1373075230972285,-1.3749176105583054,3.1368823768820997
+1,"New York Times, Washington Post","New critical race theory laws have teachers scared, confused and self-censoring",4,liberal,-1,2.723196216454026,0.27713672260156424,2.6665013481607343
+2,"New York Times, Associated Press, Reuters","New critical race theory laws have teachers scared, confused and self-censoring",2,liberal,-1,3.1373075230972285,-1.7019506971204268,3.1368823768820997
+3,"New York Times, Washington Post","New critical race theory laws have teachers scared, confused and self-censoring",3,liberal,-1,3.558985921689397,0.36617635125946096,3.6072634056034656
+2,"New York Times, Reuters","New critical race theory laws have teachers scared, confused and self-censoring",2,liberal,-1,3.1373075230972285,-1.7019506971204268,3.1368823768820997
+2,"New York Times, Reuters","New critical race theory laws have teachers scared, confused and self-censoring",2,liberal,-1,3.1373075230972285,-1.7019506971204268,3.1368823768820997
+2,"New York Times, Daily Wire","New critical race theory laws have teachers scared, confused and self-censoring",6,liberal,-1,3.1373075230972285,-0.6704790052142137,3.1368823768820997
+2,None of the above,"New critical race theory laws have teachers scared, confused and self-censoring",6,liberal,-1,3.1373075230972285,-0.6704790052142137,3.1368823768820997
+2,None of the above,"New critical race theory laws have teachers scared, confused and self-censoring",2,liberal,-1,3.1373075230972285,-1.7019506971204268,3.1368823768820997
+4,None of the above,"New critical race theory laws have teachers scared, confused and self-censoring",4,liberal,-1,3.9882314122305327,0.3127225214660238,4.0776444343248315
+2,"New York Times, Washington Post, Associated Press, Reuters","New critical race theory laws have teachers scared, confused and self-censoring",3,liberal,-1,3.1373075230972285,0.2544305623232243,3.1368823768820997
+4,None of the above,"New critical race theory laws have teachers scared, confused and self-censoring",3,liberal,-1,3.9882314122305327,0.46794535550998145,4.0776444343248315
+5,New York Times,"New critical race theory laws have teachers scared, confused and self-censoring",3,liberal,-1,4.718158820941487,0.5597375750747855,4.548025463046196
+3,Associated Press,California Elementary School Students Are Learning To Love The Black Panthers,3,conservative,1,3.350648922129345,0.7755840167646877,3.386989529022863
+2,"New York Times, Washington Post, Associated Press",California Elementary School Students Are Learning To Love The Black Panthers,2,conservative,1,2.910030796304443,-0.7426011036244916,2.916608500301497
+1,"New York Times, None of the above",California Elementary School Students Are Learning To Love The Black Panthers,6,conservative,1,2.4769797624285093,-1.4832584894052725,2.4462274715801318
+2,"New York Times, Reuters",California Elementary School Students Are Learning To Love The Black Panthers,6,conservative,1,2.910030796304443,-1.7111294117182787,2.916608500301497
+1,"New York Times, Washington Post",California Elementary School Students Are Learning To Love The Black Panthers,4,conservative,1,2.4769797624285093,0.2864282440882079,2.4462274715801318
+2,"New York Times, Associated Press, Reuters",California Elementary School Students Are Learning To Love The Black Panthers,2,conservative,1,2.910030796304443,-0.7426011036244916,2.916608500301497
+3,"New York Times, Washington Post",California Elementary School Students Are Learning To Love The Black Panthers,2,conservative,1,3.350648922129345,-0.580913386697547,3.386989529022863
+2,"New York Times, Reuters",California Elementary School Students Are Learning To Love The Black Panthers,2,conservative,1,2.910030796304443,-0.7426011036244916,2.916608500301497
+2,"New York Times, Reuters",California Elementary School Students Are Learning To Love The Black Panthers,4,conservative,1,2.910030796304443,0.25832503373803584,2.916608500301497
+2,"New York Times, Daily Wire",California Elementary School Students Are Learning To Love The Black Panthers,4,conservative,1,2.910030796304443,0.25832503373803584,2.916608500301497
+2,None of the above,California Elementary School Students Are Learning To Love The Black Panthers,5,conservative,1,2.910030796304443,-0.13114302699105493,2.916608500301497
+2,None of the above,California Elementary School Students Are Learning To Love The Black Panthers,2,conservative,1,2.910030796304443,-0.7426011036244916,2.916608500301497
+4,None of the above,California Elementary School Students Are Learning To Love The Black Panthers,4,conservative,1,3.798834139903212,0.17218825898054202,3.8573705577442285
+2,"New York Times, Washington Post, Associated Press, Reuters",California Elementary School Students Are Learning To Love The Black Panthers,4,conservative,1,2.910030796304443,0.25832503373803584,2.916608500301497
+4,None of the above,California Elementary School Students Are Learning To Love The Black Panthers,5,conservative,1,3.798834139903212,-0.4170475137113819,3.8573705577442285
+5,New York Times,California Elementary School Students Are Learning To Love The Black Panthers,3,conservative,1,4.5098218213814345,0.8692613845985951,4.3277515864655935
+3,Associated Press,"Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",4,neutral,0,3.4548174219093712,0.2967912059495339,3.4971264673131643
+2,"New York Times, Washington Post, Associated Press","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",3,neutral,0,3.0236691597008356,0.5153553590711919,3.0267454385917985
+1,"New York Times, None of the above","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",5,neutral,0,2.600087989441267,0.273448278597213,2.556364409870433
+2,"New York Times, Reuters","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",5,neutral,0,3.0236691597008356,0.17043217626097742,3.0267454385917985
+1,"New York Times, Washington Post","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",2,neutral,0,2.600087989441267,-1.3876613659804762,2.556364409870433
+2,"New York Times, Associated Press, Reuters","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",5,neutral,0,3.0236691597008356,0.17043217626097742,3.0267454385917985
+3,"New York Times, Washington Post","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",2,neutral,0,3.4548174219093712,-1.0043672194501603,3.4971264673131643
+2,"New York Times, Reuters","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",4,neutral,0,3.0236691597008356,0.30990023699006813,3.0267454385917985
+2,"New York Times, Reuters","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",4,neutral,0,3.0236691597008356,0.30990023699006813,3.0267454385917985
+2,"New York Times, Daily Wire","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",2,neutral,0,3.0236691597008356,-1.1910259003724595,3.0267454385917985
+2,None of the above,"Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",4,neutral,0,3.0236691597008356,0.30990023699006813,3.0267454385917985
+2,None of the above,"Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",3,neutral,0,3.0236691597008356,0.5153553590711919,3.0267454385917985
+4,None of the above,"Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",4,neutral,0,3.893532776066872,0.27370539022328305,3.96750749603453
+2,"New York Times, Washington Post, Associated Press, Reuters","Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",4,neutral,0,3.0236691597008356,0.30990023699006813,3.0267454385917985
+4,None of the above,"Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",3,neutral,0,3.893532776066872,0.6789282242672404,3.96750749603453
+5,New York Times,"Florida 'proudly' teaches African American history, official says, as he defends rejecting AP course",5,neutral,0,4.613990321161461,-0.1984768388620253,4.437888524755895
